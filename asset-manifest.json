@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactIHC/static/css/main.0400322e.css",
+    "main.js": "/ReactIHC/static/js/main.347c67e3.js",
+    "static/js/787.03172de1.chunk.js": "/ReactIHC/static/js/787.03172de1.chunk.js",
+    "index.html": "/ReactIHC/index.html",
+    "main.0400322e.css.map": "/ReactIHC/static/css/main.0400322e.css.map",
+    "main.347c67e3.js.map": "/ReactIHC/static/js/main.347c67e3.js.map",
+    "787.03172de1.chunk.js.map": "/ReactIHC/static/js/787.03172de1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0400322e.css",
+    "static/js/main.347c67e3.js"
+  ]
+}
